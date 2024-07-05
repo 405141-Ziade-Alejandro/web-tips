@@ -8,4 +8,5 @@ public class ContextDb : DbContext
     {
         
     }
+	 //public DbSet<Socio> Socios { get; set; }
 }
