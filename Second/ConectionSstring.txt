@@ -15,3 +15,5 @@ where name = suser_name()
 Server=SQL5111.site4now.net;Database=db_aa579f_prog3w1;User Id=db_aa579f_prog3w1_admin;Password=1234TUp@2@;
 Db first
 dotnet Scaffold-DbContext "YourConnectionString" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context YourDbContextName
+
+test
