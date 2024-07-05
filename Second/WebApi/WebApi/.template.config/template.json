@@ -1,0 +1,14 @@
+{
+	"author": "Average",
+	"classifications": ["Web","MVC"],
+	"identity": "Web.Api.Template",
+	"name": "Web Api Template",
+	"description": "Template for the exam of program 3",
+	"ShortName": "WebApi",
+	"sourceName": "WebApi",
+	"tags": {
+		"language": "C#",
+		"type": "project"
+	},
+	"preferNameDirectory": true
+}
