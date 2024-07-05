@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParcialTardeBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+738d5469a65d8ace04073fc1b376ebfb370ba9f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+609a95d8d699a87fcc63fc1ad0124a01b0732c0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParcialTardeBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParcialTardeBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
