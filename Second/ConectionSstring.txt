@@ -12,8 +12,13 @@ from sys.server_principals
 where name = suser_name()
 
 
+
 Server=SQL5111.site4now.net;Database=db_aa579f_prog3w1;User Id=db_aa579f_prog3w1_admin;Password=1234TUp@2@;
+
 Db first
-dotnet Scaffold-DbContext "YourConnectionString" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context YourDbContextName
+dotnet ef dbcontext scaffold "YourConnectionString" Microsoft.EntityFrameworkCore.SqlServer -o Models -c YourDbContextName
+
 
 test
+
+data source=DESKTOP-4MKSC1R;initial catalog=test;trusted_connection=true

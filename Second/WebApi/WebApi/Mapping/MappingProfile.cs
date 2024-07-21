@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
-using RepasoParcialTarde.Dto;
-using RepasoParcialTarde.Models;
+
 
 namespace RepasoParcialTarde.Mapping;
 

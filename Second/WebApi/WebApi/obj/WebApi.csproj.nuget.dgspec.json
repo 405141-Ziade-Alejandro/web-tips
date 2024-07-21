@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Biblotecas\\backup\\Programing\\progra3\\Repaso segundo parcial\\parcialTarde\\WebApi\\WebApi\\WebApi.csproj": {}
+    "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Biblotecas\\backup\\Programing\\progra3\\Repaso segundo parcial\\parcialTarde\\WebApi\\WebApi\\WebApi.csproj": {
+    "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Biblotecas\\backup\\Programing\\progra3\\Repaso segundo parcial\\parcialTarde\\WebApi\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\Biblotecas\\backup\\Programing\\progra3\\Repaso segundo parcial\\parcialTarde\\WebApi\\WebApi\\WebApi.csproj",
+        "projectPath": "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Biblotecas\\backup\\Programing\\progra3\\Repaso segundo parcial\\parcialTarde\\WebApi\\WebApi\\obj\\",
+        "outputPath": "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -41,6 +41,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",

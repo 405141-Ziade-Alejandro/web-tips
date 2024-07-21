@@ -7,7 +7,7 @@ using Microsoft.OpenApi.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllers();
+//builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(/*options =>
@@ -20,14 +20,26 @@ builder.Services.AddSwaggerGen(/*options =>
                 Type = SecuritySchemeType.ApiKey
     });
 }*/);
-
-// builder.Services.AddDbContext<>(option =>
+//injeccion del context
+// builder.Services.AddDbContext<"contexto va aca">(option =>
 // {
 //     option.UseSqlServer(builder.Configuration.GetConnectionString("ConexionDatabase"));
 // });
 
+//fluent validator
+// builder.Services.AddFluentValidation((options)=>
+//     options.RegisterValidatorsFromAssembly(Assembly.GetExecutingAssembly()));
+
+//configuration api behavior
+// builder.Services.Configure<ApiBehaviorOptions>(options =>
+// {
+//     options.SuppressModelStateInvalidFilter = true;
+// });
+
+
 //Scoped repos
 // builder.Services.AddScoped<IDummyRepository, DummyRepository>();
+
 //Scoped services
 // builder.Services.AddScoped<IDummyService, DummyService>();
 
@@ -70,12 +82,11 @@ if (app.Environment.IsDevelopment())
 
 
 // app.UseCors();
-//
+
 // app.UseAuthentication();
+
+
 // app.UseAuthorization();
-
 app.UseHttpsRedirection();
-
 // app.MapControllers();
-
 app.Run();

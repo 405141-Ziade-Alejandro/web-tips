@@ -1,6 +1,0 @@
-@ParcialTardeBack_HostAddress = http://localhost:5145
-
-GET {{ParcialTardeBack_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "WGgQtcnWERuXZLFAI2Rh+3Nq0lyMvnN3DK5cWGAc62oDqsK3VqUkTiFE7J61mtS70bjyRn/rqPWLRptunKz3aA==",
+  "dgSpecHash": "u+U5GoLIx44O6NhsJj/qZE6Xq5pacHe1oRHsRGU2e7tvgvyimiOoEFxdp1OcK/zxwXUm4vGHoEhUtfa1e8tMKg==",
   "success": true,
-  "projectFilePath": "D:\\Biblotecas\\backup\\Programing\\progra3\\Repaso segundo parcial\\parcialTarde\\WebApi\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Pc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Pc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Pc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Pc\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.6\\microsoft.aspnetcore.authentication.jwtbearer.8.0.6.nupkg.sha512",
     "C:\\Users\\Pc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.5\\microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",

@@ -9,15 +9,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8cf9828-0d1f-4631-8f08-ee442e07d76c" name="Changes" comment="" />
+    <list default="true" id="a8cf9828-0d1f-4631-8f08-ee442e07d76c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ConectionSstring.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ConectionSstring.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/Mapping/MappingProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/Mapping/MappingProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/WebApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/WebApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net8.0/WebApi.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net8.0/WebApi.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net8.0/WebApi.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net8.0/WebApi.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net8.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net8.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net8.0/WebApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net8.0/WebApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net8.0/WebApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net8.0/WebApi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2insUSMOuAEBiCrqp7aH7MtAG3t" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -97,6 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720137691225</updated>
       <workItem from="1720137692578" duration="2775000" />
+      <workItem from="1721537545294" duration="440000" />
     </task>
     <servers />
   </component>
