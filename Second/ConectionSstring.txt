@@ -22,3 +22,8 @@ dotnet ef dbcontext scaffold "YourConnectionString" Microsoft.EntityFrameworkCor
 test
 
 data source=DESKTOP-4MKSC1R;initial catalog=test;trusted_connection=true
+
+---
+
+dotnet ef migrations add nombre
+dotnet ef database update
