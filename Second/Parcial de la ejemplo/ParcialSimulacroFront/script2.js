@@ -38,11 +38,11 @@ async function asignarAlbanil() {
     }
 
     const responce = await fetch(`${api_url}postAlbanilxobra`, {
-        method:'POST',
+        method: 'POST',
         headers: {
-            'Content-type':'application/json'
+            'Content-type': 'application/json'
         },
-        body:JSON.stringify(data)
+        body: JSON.stringify(data)
     })
     const responce_json = await responce.json()
     if (!responce_json.success) {

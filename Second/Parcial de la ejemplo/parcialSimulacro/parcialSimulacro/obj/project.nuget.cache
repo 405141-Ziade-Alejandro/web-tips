@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9WW+OIhor+bkLysiusSAanV+iPwrChD7InXJ+qVn6UU0pkJYmPf0RHWTVnQ5SDgjNUg9uqa0UdOiXNYoQECG3Q==",
+  "dgSpecHash": "LAfripNYmED9ln0xCnkbULSduC8zXhvlfd3Ftx+tgcgJbAFT+nes1s0pXvOAoI3uuOOjWd1FhY0AqkPXm+BwFg==",
   "success": true,
-  "projectFilePath": "D:\\Biblotecas\\backup\\Programing\\progra3\\Repaso segundo parcial\\parcialSimulacro\\parcialSimulacro\\parcialSimulacro.csproj",
+  "projectFilePath": "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\Parcial de la ejemplo\\parcialSimulacro\\parcialSimulacro\\parcialSimulacro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Pc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

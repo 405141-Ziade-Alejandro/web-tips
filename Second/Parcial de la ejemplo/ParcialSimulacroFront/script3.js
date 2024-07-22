@@ -1,5 +1,7 @@
 document.getElementById('formulario-albanil').addEventListener('submit', async function (event) {
+    
     event.preventDefault()
+
     const nombre = document.getElementById('input-nombre').value
     const apellido = document.getElementById('input-apellido').value
     const dni = document.getElementById('input-dni').value
@@ -25,14 +27,16 @@ document.getElementById('formulario-albanil').addEventListener('submit', async f
         },
         body: JSON.stringify(data)
     })
+
     const responce_json = await responce.json()
+
     if (!responce_json.success) {
         alert(responce_json.message)
         return
-    } else{
+    } else {
         alert(responce_json.message)
     }
 
     document.getElementById('formulario-albanil').reset()
-    
+
 })

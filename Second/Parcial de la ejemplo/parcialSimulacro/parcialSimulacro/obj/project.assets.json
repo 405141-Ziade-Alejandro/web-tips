@@ -4389,11 +4389,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Biblotecas\\backup\\Programing\\progra3\\Repaso segundo parcial\\parcialSimulacro\\parcialSimulacro\\parcialSimulacro.csproj",
+      "projectUniqueName": "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\Parcial de la ejemplo\\parcialSimulacro\\parcialSimulacro\\parcialSimulacro.csproj",
       "projectName": "parcialSimulacro",
-      "projectPath": "D:\\Biblotecas\\backup\\Programing\\progra3\\Repaso segundo parcial\\parcialSimulacro\\parcialSimulacro\\parcialSimulacro.csproj",
+      "projectPath": "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\Parcial de la ejemplo\\parcialSimulacro\\parcialSimulacro\\parcialSimulacro.csproj",
       "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Biblotecas\\backup\\Programing\\progra3\\Repaso segundo parcial\\parcialSimulacro\\parcialSimulacro\\obj\\",
+      "outputPath": "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\Parcial de la ejemplo\\parcialSimulacro\\parcialSimulacro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"

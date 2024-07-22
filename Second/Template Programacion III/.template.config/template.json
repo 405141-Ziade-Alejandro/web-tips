@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Agustin Nieto",
+    "classifications": ["Web", "MVC"],
+    "identity": "TemplateProgIII",
+    "name": "Template Prog III",
+    "shortName": "template-prog-iii",
+    "sourceName": "Template Programacion III",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": true
+}
