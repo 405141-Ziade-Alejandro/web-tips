@@ -21,7 +21,7 @@ dotnet ef dbcontext scaffold "YourConnectionString" Microsoft.EntityFrameworkCor
 
 test
 
-data source=DESKTOP-4MKSC1R;initial catalog=test;trusted_connection=true
+data source=DESKTOP-4MKSC1R;initial catalog=practice;trusted_connection=true;TrustServerCertificate=True
 
 ---
 
