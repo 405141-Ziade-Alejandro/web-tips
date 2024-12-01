@@ -4333,26 +4333,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\santi\\.nuget\\packages\\": {}
+    "C:\\Users\\Aquiles\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santi\\OneDrive\\Documents\\TUP\\Trimestre III\\Programacion III\\Template Programacion III\\Template Programacion III.csproj",
+      "projectUniqueName": "D:\\Biblioteca\\Programing\\progra3\\web-tips\\Second\\Template Programacion III\\Template Programacion III.csproj",
       "projectName": "Template Programacion III",
-      "projectPath": "C:\\Users\\santi\\OneDrive\\Documents\\TUP\\Trimestre III\\Programacion III\\Template Programacion III\\Template Programacion III.csproj",
-      "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santi\\OneDrive\\Documents\\TUP\\Trimestre III\\Programacion III\\Template Programacion III\\obj\\",
+      "projectPath": "D:\\Biblioteca\\Programing\\progra3\\web-tips\\Second\\Template Programacion III\\Template Programacion III.csproj",
+      "packagesPath": "C:\\Users\\Aquiles\\.nuget\\packages\\",
+      "outputPath": "D:\\Biblioteca\\Programing\\progra3\\web-tips\\Second\\Template Programacion III\\obj\\",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Aquiles\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4365,6 +4364,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4439,7 +4443,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("parcialSimulacro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e056d51c2b25d73817c30e3210fa194cd33a6289")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc276aa27135a9da4522b50fe988933cfbd4e4ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("parcialSimulacro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("parcialSimulacro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

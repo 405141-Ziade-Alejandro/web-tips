@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\WebApi.csproj": {}
+    "D:\\Biblioteca\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\WebApi.csproj": {
+    "D:\\Biblioteca\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\Biblioteca\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Biblotecas\\backup\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\obj\\",
+        "projectPath": "D:\\Biblioteca\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\Aquiles\\.nuget\\packages\\",
+        "outputPath": "D:\\Biblioteca\\Programing\\progra3\\web-tips\\Second\\WebApi\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Aquiles\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +33,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -106,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
